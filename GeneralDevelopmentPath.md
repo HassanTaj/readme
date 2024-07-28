@@ -5,14 +5,16 @@ Stage 2 — CSS (Grid, Flex)
 Stage 3 — Tailwind | Bootstrap 5  
 Stage 4 — JavaScript, DOM  
 Stage 5 — Frontend Framework(Angular | React/Next | Vue | Svetle)  
+Stage 6 — Git, GitHub 
 
 🏆 — Frontend developer  
 
-Stage 6 — Node.js(express, nest) | Spring Boot | Dotnet  
-stage 7 — MySQL | MSSQL | SQLite  
-Stage 8 — MongoDB | CosmosDb  
-Stage 9 — The CRUD patterns  
-Stage 10 — Build projects to gain experience  
+Stage 7 — Node.js(express, nest) | Spring Boot | Dotnet 
+stage 8 — MySQL | MSSQL | SQLite | PostgresSQl
+Stage 9 — MongoDB | CosmosDb | Redis
+Stage 10 — The Popular Design Patterns  
+Stage 11 — Docker, Kubernetes, WSL  
+Stage 12 — Build projects to gain experience  
 
 🏆 — Full Stack developer  
 
