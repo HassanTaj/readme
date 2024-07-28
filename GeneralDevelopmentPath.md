@@ -8,7 +8,7 @@ Stage 5 — Frontend Framework(Angular| React | VueJS | Svetle)
 
 🏆 — Frontend developer  
 
-Stage 6 — Node.js(express,nest) | Spring Boot | Dotnet  
+Stage 6 — Node.js(express, nest) | Spring Boot | Dotnet  
 stage 7 — MySQL | MSSQL | SQLite  
 Stage 8 — MongoDB | CosmosDb  
 Stage 9 — The CRUD patterns  
@@ -40,8 +40,13 @@ Stage 10 — Build projects to gain experience
 
 > Tailwind  
 
-- videos : https://youtu.be/pYaamz6AyvU?list=PL0Zuz27SZ-6M8znNpim8dRiICRrP5HPft
+- videos: https://youtu.be/pYaamz6AyvU?list=PL0Zuz27SZ-6M8znNpim8dRiICRrP5HPft
 - documentation: https://v2.tailwindcss.com/docs
+
+> Nest JS
+
+- videos: https://youtu.be/GHTA143_b-s
+- documentation: https://docs.nestjs.com/
 
 **Note**: `if you don't find broken links, or something missing please feel free to reach out to me.`
 
