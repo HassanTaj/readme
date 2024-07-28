@@ -9,10 +9,10 @@ Stage 6 — Git, GitHub
 
 🏆 — Frontend developer  
 
-Stage 7 — Node.js(express, nest) | Spring Boot | Dotnet 
-stage 8 — MySQL | MSSQL | SQLite | PostgresSQl
-Stage 9 — MongoDB | CosmosDb | Redis
-Stage 10 — The Popular Design Patterns  
+Stage 7 — Node.js(express, nest) | Spring Boot | Dotnet  
+stage 8 — MySQL | MSSQL | SQLite | PostgresSQl  
+Stage 9 — MongoDB | CosmosDb | Redis  
+Stage 10 — The Popular Design Patterns    
 Stage 11 — Docker, Kubernetes, WSL  
 Stage 12 — Build projects to gain experience  
 
