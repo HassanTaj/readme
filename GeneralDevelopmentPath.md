@@ -52,10 +52,4 @@ Stage 12 — Build projects to gain experience
 
 **Note**: `if you don't find broken links, or something missing please feel free to reach out to me.`
 
-[![Outlook](https://img.shields.io/static/v1?message=EMAIL&logo=maildotru&label=&color=0072C6&logoColor=white&labelColor=&style=for-the-badge)](mailto:hassantaj01@outlook.com)
-[![WhatsApp](https://img.shields.io/static/v1?message=WHATSAPP&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge)](https://wa.me/+923249845044)
-[![Discord](https://img.shields.io/static/v1?message=DISCORD&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/hassantaj)
-[![Facebook](https://img.shields.io/static/v1?message=FACEBOOK&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge)](https://www.facebook.com/hassantaj01/)
-[![LinkedIn](https://img.shields.io/static/v1?message=LINKEDIN&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge)](https://pk.linkedin.com/in/hassan-taj/)
-
 
