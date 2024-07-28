@@ -4,7 +4,7 @@ Stage 1 — HTML
 Stage 2 — CSS (Grid, Flex)  
 Stage 3 — Tailwind | Bootstrap 5  
 Stage 4 — JavaScript, DOM  
-Stage 5 — Frontend Framework(Angular| React | VueJS | Svetle)  
+Stage 5 — Frontend Framework(Angular | React/Next | Vue | Svetle)  
 
 🏆 — Frontend developer  
 
