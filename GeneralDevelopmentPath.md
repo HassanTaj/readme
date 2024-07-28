@@ -2,7 +2,7 @@
 
 Stage 1 — HTML  
 Stage 2 — CSS (Grid, Flex)  
-Stage 3 — Tailwind | Bootstrap 5  
+Stage 3 — Bootstrap 5 | Tailwind 
 Stage 4 — JavaScript, DOM  
 Stage 5 — Frontend Framework(Angular | React/Next | Vue | Svetle)  
 Stage 6 — Git, GitHub 
