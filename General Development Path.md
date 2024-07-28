@@ -45,28 +45,10 @@ Stage 10 — Build projects to gain experience
 
 **Note**: `if you don't find broken links, or something missing please feel free to reach out to me.`
 
-<a href="mailto:hassantaj01@outlook.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=OUTLOOK&logo=maildotru&label=&color=0072C6&logoColor=white&labelColor=&style=for-the-badge" alt="Outlook">
-</a>
-<a href="https://pk.linkedin.com/in/hassan-taj/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=WHATSAPP&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" alt="WhatsApp">
-</a>
-<a href="https://discord.com/users/hassantaj" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=DISCORD&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="Discord">
-</a>
-<a href="https://www.facebook.com/hassantaj01/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=FACEBOOK&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" alt="Facebook">
-</a>
-<a href="https://pk.linkedin.com/in/hassan-taj/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LINKEDIN&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn">
-</a>
-
-<!--
 [![Outlook](https://img.shields.io/static/v1?message=EMAIL&logo=maildotru&label=&color=0072C6&logoColor=white&labelColor=&style=for-the-badge)](mailto:hassantaj01@outlook.com)
 [![WhatsApp](https://img.shields.io/static/v1?message=WHATSAPP&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge)](https://pk.linkedin.com/in/hassan-taj/)
 [![Discord](https://img.shields.io/static/v1?message=DISCORD&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/hassantaj)
 [![Facebook](https://img.shields.io/static/v1?message=FACEBOOK&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge)](https://www.facebook.com/hassantaj01/)
 [![LinkedIn](https://img.shields.io/static/v1?message=LINKEDIN&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge)](https://pk.linkedin.com/in/hassan-taj/)
- -->
 
 
